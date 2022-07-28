@@ -38,7 +38,7 @@ Olá, sou Bruno Silva Cruz e seja bem-vindo!
  
 ##
 
-![Snake animation](https://github.com/BRUNOOCRUZZ/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BRUNOOCRUZZ/BRUNOOCRUZZ/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
