@@ -2,10 +2,8 @@ Olá, sou Bruno Silva Cruz e seja bem-vindo!
 
 ## 
 
-- 🔭 Trabalho com front-end
-- 🌱 Estudando atualmente no curso ONE(Oracle Next Education) Oracle + Alura
-- 🌱 Estudando atualmente na turma 05 do Explorer da Rocketseat 
-- 🌱 Estudando também react/next.js
+- 🔭 Estudante de desenvolvimento Front-End
+- 🌱 Estudante do bootcamp Santander+DIO
 - 👯 Gosto de trabalho em equipe
 - 📫 E-mail para contato: brunoocruzz01@gmail.com 
 - 😄 Pronouns: Ele/Dele
