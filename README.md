@@ -3,7 +3,6 @@ Olá, sou Bruno Silva Cruz e seja bem-vindo!
 ## 
 
 - 🔭 Estudante de desenvolvimento Front-End
-- 🌱 Estudante do bootcamp Santander+DIO
 - 👯 Gosto de trabalho em equipe
 - 📫 E-mail para contato: brunoocruzz01@gmail.com 
 - 😄 Pronouns: Ele/Dele
