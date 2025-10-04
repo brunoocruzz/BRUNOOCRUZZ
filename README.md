@@ -2,7 +2,7 @@ Olá, sou Bruno Silva Cruz e seja bem-vindo!
 
 ## 
 
-- 🔭 Estudante de desenvolvimento Front-End
+- 🔭 Estudante de desenvolvimento FullStack
 - 👯 Gosto de trabalho em equipe
 - 📫 E-mail para contato: brunoocruzz01@gmail.com 
 - 😄 Pronouns: Ele/Dele
@@ -21,6 +21,10 @@ Olá, sou Bruno Silva Cruz e seja bem-vindo!
   <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bruno-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Bruno-dot-net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
+  <img align="center" alt="Bruno-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  
   
 </div>
   
